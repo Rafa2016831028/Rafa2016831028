@@ -80,9 +80,34 @@ I enjoy building scalable, performant systems and have built projects such as a 
 
 ---
 
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jarin-tasnim-355216180/)
+- 📧 rafatasnimjarin20@gmail.com
+
+---
+
+*“Driven by curiosity. Powered by code. Grounded in clean, scalable design.”*
+
+
+## 📊 GitHub Stats
+ 
+ <div display="flex">
+  <img padding-right="0px" src="https://github-readme-stats.vercel.app/api?username=Rafa2016831028&show_icons=true&theme=react" alt="Rafa2016831028" width="48%"/>
+  <img padding-right="0px" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafa2016831028&theme=react" alt="Rafa2016831028" width="49%"/>
+</div>
+&nbsp;
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa2016831028&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="language" >
+</div>
+
+
 
 
 <!--
+
+- 🌍 [Portfolio](https://chintantripathiportfolio.vercel.app)
+
 - Led **Tableau-Trino integration** for live data access
 - Built robust **REST API** automation tools
 - Explored scalable cloud solutions with **Snowflake, Databricks, and AWS SageMaker**
