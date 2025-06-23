@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I am currently working as a Software Engineer at **Telus Digital**, where I:
+I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I am currently working as a Software Engineer at **[Telus Digital](https://www.telusdigital.com/)**, where I:
 
 -  Spearheaded the migration of Morningstar Direct (used by 12,500+ licensed users globally) from desktop to a modern web-based platform using Nuxt.js and Vue.js.
 -  Led critical initiatives including: 
