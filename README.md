@@ -8,13 +8,22 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I recently completed a Data Analyst Co-op at **RBC**, where I:
+I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I am currently working as a Software Engineer at **Telus Digital**, where I:
 
-- Automated data quality checks via scheduled **cron jobs**
 - Led **Tableau-Trino integration** for live data access
 - Built robust **REST API** automation tools
 - Explored scalable cloud solutions with **Snowflake, Databricks, and AWS SageMaker**
 - Worked extensively with **Python, Trino, DBeaver**, and data pipelines
+-  Spearheaded the migration of Morningstar Direct (used by 12,500+ licensed users globally) from desktop to a modern web-based platform using Nuxt.js and Vue.js.
+-  Led critical initiatives including: 
+•  API integrations
+•  Version upgrades (Next.js 2 → 3, Vue 2 → Vue 3)
+•  CI/CD pipeline migration (Jenkins → Harness), creating automated developer testing environments ensuring production-ready,	bug-free deployments.
+- Enhanced application monitoring and performance by integrating New Relic and Splunk.
+- Collaborated across global, matrixed teams to prioritize and deliver scalable, AI-enhanced developer experiences.
+- Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
+- *Technologies:* Next.js, Vue.js, Vuetify, Graphql,AWS services, Jenkins, Harness, New Relic, Splunk.
+- Live URL: https://www.morningstar.com/business/products/direct 
 
 
 I enjoy building scalable, performant systems and have built projects such as a **real-time stock price app** and an **LLM-based Q&A engine** for financial datasets.
