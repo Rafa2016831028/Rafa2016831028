@@ -19,7 +19,7 @@ I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stac
 - Collaborated across global, matrixed teams to prioritize and deliver scalable, AI-enhanced developer experiences.
 - Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
 - *Technologies:* Next.js, Vue.js, Vuetify, Graphql,AWS services, Jenkins, Harness, New Relic, Splunk.
-- Live URL: https://www.morningstar.com/business/products/direct 
+- Live URL: [Telus Web Services](https://www.telusdigital.com/solutions/digital-services/mobile-app-web-development-services)
 
 
 I enjoy building scalable, performant systems and have built projects such as a **real-time stock price app** and an **LLM-based Q&A engine** for financial datasets.
@@ -71,7 +71,8 @@ I enjoy building scalable, performant systems and have built projects such as a 
 ---
 
 ## 📜 Certifications
-- ✅ JavaScript
+- ✅ [Certified Scrum Master](https://bcert.me/bc/html/show-badge.html?b=irnpjsye) – Scrum Alliance (2024 – Present)
+- ✅ [Vice-President (Social)](https://csgc.usask.ca/research-fest-2023/) at Computer Science Graduate Council (CSGC), University of Saskatchewan 
 - ✅ AWS Cloud Practitioner
 - ✅ AWS Developer Associate
 - ✅ HTML5, CSS3, GitHub
