@@ -10,10 +10,6 @@
 
 I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I am currently working as a Software Engineer at **Telus Digital**, where I:
 
-- Led **Tableau-Trino integration** for live data access
-- Built robust **REST API** automation tools
-- Explored scalable cloud solutions with **Snowflake, Databricks, and AWS SageMaker**
-- Worked extensively with **Python, Trino, DBeaver**, and data pipelines
 -  Spearheaded the migration of Morningstar Direct (used by 12,500+ licensed users globally) from desktop to a modern web-based platform using Nuxt.js and Vue.js.
 -  Led critical initiatives including: 
 •  API integrations
@@ -32,17 +28,27 @@ I enjoy building scalable, performant systems and have built projects such as a 
 
 ## 💼 Experience Highlights
 
-### 🏦 RBC — *Data Analyst Intern*
-> *Sep 2024 – Apr 2025 | Toronto, ON*
+### 🏦 University of Saskatchewan — *Research Assistant*
+> *Jan 2022 – Jun 2024 | Saskatoon, CA*
 - Automated exception queries and built retry mechanisms for Tableau refreshes
 - Enhanced data querying pipelines using **Trino, Python, DBeaver**
 - Led live-data integrations and researched **LDAP alternatives for Zeppelin**
+- Developed a front-end tool to generate Concept Cluster Trees (CCT) for large-scale software projects, providing newcomers visual architecture overviews 
+- Integrated REST APIs and built responsive UIs using React.js and Node.js.
+- Also worked with Explainable AI(XAI)
+- *Technologies:* React.js, Python(FAST API)
 
-### 🌐 Evrig Solutions — *Software Developer*
-> *Nov 2022 – Jun 2023 | Ahmedabad, India*
+### 🌐 Dynamic Solution Innovators— *Software Developer*
+> *Jan 2021 – June 2022 | Dhaka, Bangladesh*
 - Developed a MERN-based home appliance platform
 - Used **React, Vue, Tailwind CSS** for responsive UIs
 - Improved response times and reduced unauthorized access via **JWT**
+
+### 🏦 Selise Digital Platforms — *Software Engineer Intern*
+> *Sep 2024 – Apr 2025 | Dhaka, Bangladesh*
+- Automated exception queries and built retry mechanisms for Tableau refreshes
+- Enhanced data querying pipelines using **Trino, Python, DBeaver**
+- Led live-data integrations and researched **LDAP alternatives for Zeppelin**
 
 ### 🛠️ Other Roles
 - Accenture Virtual Internship (Cloud & IAM)
@@ -76,7 +82,10 @@ I enjoy building scalable, performant systems and have built projects such as a 
 
 
 <!--
-
+- Led **Tableau-Trino integration** for live data access
+- Built robust **REST API** automation tools
+- Explored scalable cloud solutions with **Snowflake, Databricks, and AWS SageMaker**
+- Worked extensively with **Python, Trino, DBeaver**, and data pipelines
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
