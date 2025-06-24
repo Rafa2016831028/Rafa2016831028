@@ -84,7 +84,7 @@ I enjoy building scalable, performant systems and have built projects such as a 
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jarin-tasnim-355216180/)
 - 📧 rafatasnimjarin20@gmail.com
-
+- [Medium Profile](https://medium.com/@rafatasnimjarin20)
 ---
 
 *“Driven by curiosity. Powered by code. Grounded in clean, scalable design.”*
