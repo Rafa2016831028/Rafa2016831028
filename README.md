@@ -18,7 +18,7 @@ I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stac
 - Enhanced application monitoring and performance by integrating New Relic and Splunk.
 - Collaborated across global, matrixed teams to prioritize and deliver scalable, AI-enhanced developer experiences.
 - Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
-- *Technologies:* Next.js, Vue.js, Vuetify, Graphql,AWS services, Jenkins, Harness, New Relic, Splunk.
+- **Technologies:** Next.js, Vue.js, Vuetify, Graphql,AWS services, Jenkins, Harness, New Relic, Splunk.
 - Live URL: [Telus Web Services](https://www.telusdigital.com/solutions/digital-services/mobile-app-web-development-services)
 
 
@@ -36,7 +36,7 @@ I enjoy building scalable, performant systems and have built projects such as a 
 - Developed a front-end tool to generate Concept Cluster Trees (CCT) for large-scale software projects, providing newcomers visual architecture overviews 
 - Integrated REST APIs and built responsive UIs using React.js and Node.js.
 - Also worked with Explainable AI(XAI)
-- *Technologies:* React.js, Python(FAST API)
+- **Technologies:** React.js, Python(FAST API)
 
 ### 🌐 Dynamic Solution Innovators— *Software Developer*
 > *Jan 2021 – June 2022 | Dhaka, Bangladesh*
