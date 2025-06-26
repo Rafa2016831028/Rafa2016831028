@@ -43,6 +43,7 @@ I enjoy building scalable, performant systems and have built projects such as a 
 - Developed a MERN-based home appliance platform
 - Used **React, Vue, Tailwind CSS** for responsive UIs
 - Improved response times and reduced unauthorized access via **JWT**
+- *Technologies:* React.js, Python(FAST API)
 
 ### 🏦 Selise Digital Platforms — *Software Engineer Intern*
 > *Sep 2024 – Apr 2025 | Dhaka, Bangladesh*
