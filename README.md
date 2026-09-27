@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Jarin
 
 🎓 **MSc. @ University of Saskatchewan**  
-🔍 **Full Stack Developer** | **Data Engineer**  
-🛠️ Vue | Vuetify | AWS | Tableau | Trino | Kafka | Spark | GitHub Actions  
+🔍 **Data Developer** | **Data Engineer**  
+🛠️ PowerBI | Tableau | AWS | Kafka | Spark | GitHub Actions  
 📍 North York, Ontario, Canada
 
 
