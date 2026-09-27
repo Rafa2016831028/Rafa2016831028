@@ -8,17 +8,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate Full-Stack Engineer with a strong foundation in the **MERN Stack** and cloud-native development. I am currently working as a Software Engineer at **[Delta Corr](https://deltacorr.com/)**, where I:
+I'm a passionate Data Analyst with 5+ years leading end-to-end analytics projects — from data extraction and integration through descriptive, predictive, and prescriptive analysis — to support business decision-making. Skilled at partnering with operational and business leaders to translate complex, multi-source data into clear, actionable insights, building dashboards and reports that drive continuous improvement and measurable performance gains. I am currently working as a Software Engineer at **[Delta Corr](https://deltacorr.com/)**, where I:
 
--  Spearheaded the migration of Morningstar Direct (used by 12,500+ licensed users globally) from desktop to a modern web-based platform using Nuxt.js and Vue.js.
--  Led critical initiatives including: 
-  -- API integrations
-  -- Version upgrades (Next.js 2 → 3, Vue 2 → Vue 3)
-  -- CI/CD pipeline migration (Jenkins → Harness), creating automated developer testing environments ensuring production-ready,	bug-free deployments.
-- Enhanced application monitoring and performance by integrating New Relic and Splunk.
-- Collaborated across global, matrixed teams to prioritize and deliver scalable, AI-enhanced developer experiences.
-- Continuous Integration/Deployment Pipeline Integration, pull requests, code reviews, load/stress testing, unit/integration/e2e testing
-- **Technologies:** Next.js, Vue.js, Vuetify, Graphql,AWS services, Jenkins, Harness, New Relic, Splunk.
+-  Lead end-to-end analytics projects from data extraction (SQL, Python/Pandas) through dashboard delivery, designing production-ready Power BI dashboards with custom DAX measures that lifted self-service reporting uptake ~35% across 4 business teams.
+- Established KPI thresholds within Power BI dashboards monitoring customer service, operational performance, and CRM pipeline metrics to flag underperforming regions, service queues, and customer segments — enabling operations managers to reprioritize support workloads and focus outreach on high-priority customers, reducing reporting delays and accelerating decisions.
+- Partnered directly with business and operational leaders to clarify reporting requirements and translate technical analysis into practical, non-technical recommendations — coaching users toward confident self-service analytics, reducing ad-hoc requests from 10+ users, and enforcing data governance across production reporting layers.
+- Automated data preparation workflows in Alteryx Designer, blending CRM, ERP, and customer service datasets, cleaning and standardizing records, and building reusable ETL pipelines for Power BI dashboards — reducing manual prep time and improving data consistency across reports.
+- Integrated and analyze data from multiple sources (SQL, Pendo, Google Analytics), conducting exploratory statistical analysis and data validation in SPSS (descriptive statistics, correlation analysis, trend identification) to support business decision-making; improved ETL pipeline reliability by 10% and applied AI-enabled tools (AzureML) to automate recurring reporting.
+
 - Live URL: [Delta Corr. Web Services](https://deltacorr.com/)
 
 
