@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Jarin Tasnim</title>
+<style>
+:root{--bg:#fafaf7;--ink:#1c2430;--mute:#5d6878;--line:#e3e5e8;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#12161c;--ink:#e8ecf1;--mute:#9aa5b4;--line:#2b3340}}
+:root[data-theme="dark"]{--bg:#12161c;--ink:#e8ecf1;--mute:#9aa5b4;--line:#2b3340}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;background:var(--bg);color:var(--ink);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;display:flex;align-items:center;justify-content:center;padding:24px}
+.wrap{max-width:640px;text-align:center}
+h1{font-size:30px;margin:0 0 6px}
+p{color:var(--mute);margin:0 0 30px}
+.choices{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:480px){.choices{grid-template-columns:1fr}}
+a.card{display:block;border:1px solid var(--line);border-radius:14px;padding:26px 18px;text-decoration:none;color:var(--ink);transition:transform .15s}
+a.card:hover{transform:translateY(-2px)}
+.tag{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;display:block;margin-bottom:8px}
+.academic .tag{color:#1f5fbf}
+.industry .tag{color:#0f766e}
+a.card h2{margin:0 0 6px;font-size:19px}
+a.card span.desc{color:var(--mute);font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Jarin Tasnim</h1>
+  <p>Choose the profile that fits what you're looking for.</p>
+  <div class="choices">
+    <a class="card academic" href="academic/">
+      <span class="tag">Academic</span>
+      <h2>Research &amp; PhD profile</h2>
+      <span class="desc">Publications, thesis, research interests</span>
+    </a>
+    <a class="card industry" href="industry/">
+      <span class="tag">Industry</span>
+      <h2>Software engineering profile</h2>
+      <span class="desc">Experience, skills, projects</span>
+    </a>
+  </div>
+</div>
+</body>
+</html>
