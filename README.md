@@ -27,12 +27,10 @@ I enjoy building scalable, performant systems and have built projects such as a 
 
 ### 🏦 University of Saskatchewan — *Research Assistant*
 > *Jan 2022 – Jun 2024 | Saskatoon, CA*
-- Automated exception queries and built retry mechanisms for Tableau refreshes
-- Enhanced data querying pipelines using **Trino, Python, DBeaver**
-- Led live-data integrations and researched **LDAP alternatives for Zeppelin**
-- Developed a front-end tool to generate Concept Cluster Trees (CCT) for large-scale software projects, providing newcomers visual architecture overviews 
-- Integrated REST APIs and built responsive UIs using React.js and Node.js.
-- Also worked with Explainable AI(XAI)
+- Led an end-to-end analytics project (Backport, a joint SRLab–Apache Software Foundation initiative), integrating data across three Apache services (Ansible, Kibana, ElasticSearch) to surface business-centric insights.
+- Built predictive ML solutions on Azure (AzureML, Synapse, Databricks) to analyze backporting activity and identify drivers of technical debt, then recommended prioritizing backports that addressed security vulnerabilities while minimizing code complexity — an approach that reduced estimated maintenance effort by ~13% versus less structured backporting strategies.
+- Communicated findings through a peer-reviewed publication (ICSE-NIER) and cross-functional presentations, translating technical results for both academic and business audiences.
+
 - **Technologies:** React.js, Python(FAST API)
 
 ### 🌐 Dynamic Solution Innovators— *Software Developer*
